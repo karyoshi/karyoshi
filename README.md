@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=karyoshi" alt="karyoshi" /></a> </p>
 
-- 🔭 I’m currently working on [Watchlist](https://github.com/karyoshi/WatchList/tree/main)
+- 🔭 I’m currently working on [Watchlist](https://github.com/karyoshi/WatchList/tree/main) and [LetUsYap](https://github.com/karyoshi/LetUsYap)
 
 - 🌱 I’m currently learning **React with Typescript**
 
@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **vanessajashari04@gmail.com**
 
-- ⚡ Fun fact **I laugh a lot lol**
+- ⚡ Fun fact about me is **I laugh a lot lol**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
